@@ -1,0 +1,30 @@
+{
+  "name": "dph-admin",
+  "version": "0.1.0a",
+  "description": "Make some admin area for your site",
+  "author": "Kulygin Alex",
+  "main": "app.js",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "co": "^4.6.0",
+    "co-parallel": "^1.0.0",
+    "co-request": "^1.0.0",
+    "config": "^1.16.0",
+    "debug": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.1.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-webpack": "^1.5.0",
+    "history": "^1.13.0",
+    "koa": "^1.1.2",
+    "koa-path": "^1.0.0",
+    "koa-path-match": "^1.0.1",
+    "koa-static": "^1.5.2",
+    "npm": "^3.3.12",
+    "querystring": "^0.2.0",
+    "sanitize-caja": "^0.1.3",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^1.12.4",
+    "webpack-stream": "^2.1.1"
+  }
+}
